@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "660a349d83b8927ea61cc3a2"
+  },
+  "nombre_pasajero": "Pedro Sanchez",
+  "numero_vuelo": "DEF456",
+  "origen": "Ciudad C",
+  "destino": "Ciudad A",
+  "fecha": "2024-06-10",
+  "asiento": "3C"
+},
+{
+  "_id": {
+    "$oid": "660acd6abde33c798095eda9"
+  },
+  "asiento": "2B",
+  "nombre_pasajero": "Maria Gonzalez",
+  "fecha": "2024-05-04",
+  "destino": "Ciudad E",
+  "origen": "Ciudad D",
+  "numero_vuelo": "XYZ89"
+},
+{
+  "_id": {
+    "$oid": "660ae378e5e685bc6b27344a"
+  },
+  "asiento": "3D",
+  "nombre_pasajero": "Carlos Sanchez",
+  "fecha": "2024-03-03",
+  "destino": "Canete",
+  "origen": "Chillan",
+  "numero_vuelo": "HDF734"
+},
+{
+  "_id": {
+    "$oid": "660b9a1416d5b0e86ed9d138"
+  },
+  "asiento": "1A",
+  "nombre_pasajero": "Juan Perez",
+  "fecha": "2024-04-15",
+  "destino": "Ciudad B",
+  "origen": "Ciudad A",
+  "numero_vuelo": "ABC123"
+}]
