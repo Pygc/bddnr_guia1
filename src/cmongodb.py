@@ -74,7 +74,7 @@ def eliminar_reserva():
     else:
         print("No se encontro ninguna reserva con ese nombre de pasajero.")
 
-# Funcion para mostrar los pasajeros que reservaron en un mes y ano especifico
+# Funcion para mostrar los pasajeros que reservaron en un mes y anio especifico
 def mostrar_pasajeros_por_mes_y_anio():
     mes = raw_input("Ingrese el mes (MM): ")
     anio = raw_input("Ingrese el anio (YYYY): ")
